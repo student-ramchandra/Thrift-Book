@@ -528,7 +528,7 @@ if(!$con){
       </div>
 
       <!-- Footer -->
-      <footer>Copyright &copy; JafriCode.com 2022-23</footer>
+      <footer>Copyright &copy; THRIFT-BOOK 2026-27</footer>
     </div>
 
     <!-- JavaScript for Toggle on Click (Works alongside Hover CSS) -->

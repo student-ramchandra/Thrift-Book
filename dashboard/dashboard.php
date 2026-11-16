@@ -1035,7 +1035,7 @@ if(!$con){
 
         <!-- Bottom Copyright Banner -->
         <div class="footer-bottom">
-          <span>&copy; 2026 Copyright: <a href="https://jafricode.com" target="_blank">JafriCode.com</a></span>
+          <span>&copy; 2026 Copyright: <a href="https://THRIFT-BOOK.com" target="_blank">THRIFT-BOOK.com</a></span>
         </div>
       </footer>
 

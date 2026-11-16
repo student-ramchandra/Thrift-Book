@@ -537,7 +537,7 @@ if(!$con){
 
 
         <div class="content-header">
-          <h1>User Updation</h1>
+          <h1>User update</h1>
         </div>
 
         <div class="register-container">
@@ -682,7 +682,7 @@ if(!$con){
       </div>
 
       <!-- Footer -->
-      <footer>Copyright &copy; JafriCode.com 2022-23</footer>
+      <footer>Copyright &copy; THRIFT-BOOK.com 2026-27</footer>
     </div>
 
     <!-- JavaScript for Toggle on Click -->

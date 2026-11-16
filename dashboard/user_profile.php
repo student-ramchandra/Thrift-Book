@@ -485,7 +485,7 @@ if(!$con){
 
         <!-- SIMPLE FOOTER -->
         <footer class="footer-simple">
-          <span>Copyright &copy; JafriCode.com 2022-23</span>
+          <span>Copyright &copy; THRIFT-BOOK.com 2026-27</span>
         </footer>
       </div>
       <!-- /content-wrapper -->

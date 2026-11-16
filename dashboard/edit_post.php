@@ -573,7 +573,7 @@ $p_pic = $row['p_pic'];
 
         <!-- Footer -->
         <footer class="footer">
-          <p>Copyright &copy; JafriCode.com 2022-23</p>
+          <p>Copyright &copy;THRIFT-BOOK.com 2026-27</p>
           <button
             class="scroll-top-btn"
             onclick="window.scrollTo({ top: 0, behavior: 'smooth' })"

@@ -404,7 +404,7 @@ if(!$con){
 
         <!-- Footer -->
         <footer class="footer">
-          <p>Copyright © JafriCode.com 2022-23</p>
+          <p>Copyright © THRIFT-BOOK.com 2026-27</p>
         </footer>
       </div>
     </div>

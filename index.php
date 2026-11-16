@@ -306,10 +306,10 @@ if(!$con){
       <div class="footer-container">
         <!-- Column 1: Company Info -->
         <div class="footer-col">
-          <h3>RAMCHANDRA.COM</h3>
+          <h3>THRIFT-BOOK.COM</h3>
           <p>
-            JafriCode is the educational Platform, you can learn HTML, CSS,
-            Python, JAVA, PHP etc
+            Thrift-Book is the online old book Platform, you can learn study, and buy what you 
+            like best from this  etc
           </p>
         </div>
 
@@ -338,10 +338,10 @@ if(!$con){
         <!-- Column 4: Contact -->
         <div class="footer-col">
           <h3>CONTACT</h3>
-          <p>New York, NY 10012, US</p>
+          <p>Kathmandu, KTM 10012, Nepal</p>
           <p>info@example.com</p>
-          <p>+ 01 234 567 88</p>
-          <p>+ 01 234 567 89</p>
+          <p>+ 977-9874567489</p>
+          <p>+ 977-9876560098</p>
         </div>
       </div>
     </footer>
